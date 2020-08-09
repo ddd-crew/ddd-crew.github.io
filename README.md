@@ -1,3 +1,5 @@
 ## Welcome to the Domain-Driven Design Crew
 
-_more coming soon ..._
+Currently published repositories: 
+- [Domain-Driven Design Starter Modelling Process](./ddd-starter-modelling-process/)
+- _more coming soon ..._
